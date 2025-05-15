@@ -1,2 +1,4 @@
-This is a new file in the feature-1 branch
+This line is changed feature-2 branch
 This file is edited locally
+
+This is edited in feature-2 branch
