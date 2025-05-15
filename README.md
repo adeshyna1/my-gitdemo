@@ -1,3 +1,4 @@
 # my-gitdemo
 This is my first demo for Git
-This file is just edited locally
+
+This is edited manually during conflict
