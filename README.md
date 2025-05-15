@@ -2,3 +2,5 @@
 This is my first demo for Git
 
 This is edited manually during conflict
+
+New line added
