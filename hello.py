@@ -1,0 +1,4 @@
+name = Ismail
+project = git
+
+
